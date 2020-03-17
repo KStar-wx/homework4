@@ -1,6 +1,5 @@
 import unittest
 from func import add, minus, multiply, divide
-import circle_packing
 from circle_packing import circle
 from circle_packing import *
 import numpy as np
