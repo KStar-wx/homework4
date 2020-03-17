@@ -10,5 +10,5 @@ python:
 #   - pip install -r requirements.txt
 # command to run test_func
 script:
-  - pytest unit4/test/test_func/
+  - pytest unit4/test/
 
