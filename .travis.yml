@@ -8,7 +8,7 @@ python:
 # command to install dependencies
 # install:
 #   - pip install -r requirements.txt
-# command to run tests
+# command to run test_func
 script:
-  - pytest unit4/tests/
+  - pytest unit4/test_func/
 
